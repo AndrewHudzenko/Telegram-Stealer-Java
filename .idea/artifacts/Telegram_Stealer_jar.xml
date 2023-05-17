@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Telegram-Stealer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Telegram_Stealer_jar</output-path>
+    <root id="archive" name="Telegram-Stealer.jar">
+      <element id="module-output" name="Telegram-Stealer" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-net/commons-net/3.6/commons-net-3.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
