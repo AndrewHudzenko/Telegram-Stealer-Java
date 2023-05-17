@@ -4,6 +4,17 @@
   <groupId>org.example</groupId>
   <artifactId>Telegram-Stealer</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <name>Archetype - Telegram-Stealer</name>
+    <properties>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
+    </properties>
+    <dependencies>
+        <dependency>
+            <groupId>commons-net</groupId>
+            <artifactId>commons-net</artifactId>
+            <version>3.6</version>
+        </dependency>
+    </dependencies>
+    <name>Archetype - Telegram-Stealer</name>
   <url>http://maven.apache.org</url>
 </project>
